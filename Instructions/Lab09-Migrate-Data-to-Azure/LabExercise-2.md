@@ -49,7 +49,7 @@ In this task, you will learn how to create an Azure SQL database by using Azure 
     | Password |  **Contoso@123** 
     | Confirm password | **Contoso@123** |   
     
->**Note:** You can find Deployment-id from Environment Details Page. 
+>**Note:** You can find Deployment-id from Environment Details tab. 
  
    ![img](../media/AZ-305-M9-1-0.png)
 
